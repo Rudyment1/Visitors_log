@@ -27,4 +27,4 @@ htmlcov/
 .idea/
 .vscode/
 backups/
-App/Журнал посетителей.spec
+App\Журнал посетителей.spec
